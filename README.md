@@ -1,6 +1,6 @@
 This project is for image search and the API is being used is unsplash [http://unsplash.com/](http://unsplash.com/)
 
-One user get the images after search button click and he scroll down to bottom, the next page API will call and will come up with more images.
+One user can get the images after search button click and he scroll down to bottom, the next page API will call and will come up with more images.
 
 ## Screenshot
 
